@@ -26,7 +26,7 @@ This project is divided into **three separate repositories** to show progressive
 
 - 🔹 STAGE 1 Link: [https://github.com/Nikhil3505/personal-finance-visualizer-stage1-postgresql.git] 💥
 - 🔹 STAGE 2 Link: [https://github.com/Nikhil3505/personal-finance-visualizer-stage2-postgresql.git] 💥
-- 🔹 STAGE 3 Link: [] 💥
+- 🔹 STAGE 3 Link: [https://github.com/Nikhil3505/Personal-Finance-Visualizer-Stage3-PostgreSQL.git] 💥
 
 Each stage builds upon the previous one with new features and UI improvements.
 
